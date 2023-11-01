@@ -7,6 +7,8 @@ Programação lógica
 
 ## Programa movies.pl
 
+![image](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/56cf815b-5c1c-4868-ab3c-45912c0b201f)
+
 ![PROGRAMA MOVIES PL](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/6cfd5cfc-f90d-45a8-98f4-34f803ca4d14)
 
 ### Consultas básicas 

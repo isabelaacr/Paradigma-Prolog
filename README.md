@@ -64,6 +64,9 @@ Exemplo de consultas realizadas no programa movies.pl.
 
 ![LISTAS](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/eca6607a-dc00-40a0-934d-cdca21de9515)
 
+### Head | Tail
+Não obstante, é válido ressaltar a representação de uma lista não vazia, onde H designa o primeiro elemento da lista e T o restante, excluindo o primeiro elemento.
+
 ## Referências:
 [1] Material disponibilizado pela professora
 [2] https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjKpLK96aGCAxWBjZUCHYoaC3QQFnoECDgQAw&url=https%3A%2F%2Fwww.facom.ufu.br%2F~marcelo%2FPL%2Fapostila-prolog.pdf&usg=AOvVaw1cI4k7nAnULARYyeNpGHTc&opi=89978449

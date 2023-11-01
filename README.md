@@ -70,4 +70,4 @@ Não obstante, é válido ressaltar a representação de uma lista não vazia, o
 ## Referências:
 [1] Material disponibilizado pela professora
 [2] https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjKpLK96aGCAxWBjZUCHYoaC3QQFnoECDgQAw&url=https%3A%2F%2Fwww.facom.ufu.br%2F~marcelo%2FPL%2Fapostila-prolog.pdf&usg=AOvVaw1cI4k7nAnULARYyeNpGHTc&opi=89978449
-
+[3] Robert Sebesta. Conceitos de Linguagens de Programação. Bookman, 2018.

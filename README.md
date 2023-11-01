@@ -3,7 +3,7 @@
   Revisão realizada para a disciplina de Paradigmas de Programação.
 
 # Prolog
-  Prolog, ou seja, programação lógica, é uma linguagem declarativa que se baseia no cálculo de predicados. Constituindo-se de uma coleção de fatos (base de dados) e regras (relações lógicas) realiza deduções para obter conclusões a partir de consultas realizadas pelos usuários. O que achei mais interessante em estudar Prolog foi a possibilidade da automação de tarefas e seu sistema de banco de dados baseado em lógica. Através de suas inúmeras possilibidades, é uma linguagem de programação que permite a facilitação do estudo através da resolução de problemas de modo interativo e divertido, como a atividade realizada no repl.it de descobrir quem cometeu um assassinato em um hotel através de premissas.
+  Prolog, ou seja, programação lógica, é uma linguagem declarativa que se baseia no cálculo de predicados. Constituindo-se de uma coleção de fatos (base de dados) e regras (relações lógicas) realiza deduções para obter conclusões a partir de consultas realizadas pelos usuários. O que achei mais interessante em estudar Prolog foi a possibilidade da automação de tarefas e seu sistema de banco de dados baseado em lógica. Através de suas inúmeras possilibidades, permite a facilitação do estudo através da resolução de problemas de modo interativo e divertido, como a atividade realizada no repl.it de descobrir quem cometeu um assassinato em um hotel através de premissas.
 
 ![PROLOG](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/1d3abdbb-19da-4e8d-9367-4b9aa5d5e6f7)
 

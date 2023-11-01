@@ -25,3 +25,7 @@ Programação lógica
 
 ![VARIÁVEL ANÔNIMA](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/bf4e8993-3671-44f3-9a99-923dfb3f874c)
 
+## Listas e predicados
+
+![LISTAS](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/eca6607a-dc00-40a0-934d-cdca21de9515)
+

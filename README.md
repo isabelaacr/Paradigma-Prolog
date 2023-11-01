@@ -3,9 +3,33 @@
   Revisão realizada para a disciplina de Paradigmas de Programação.
 
 # Prolog
-Prolog, ou seja, linguagem de programação lógica, é uma linguagem declarativa que se baseia no cálculo de predicados. Constituindo-se de uma coleção de fatos (base de dados) e regras (relações lógicas), realiza deduções para obter conclusões a partir das consultas realizadas pelos usuários.
+  Prolog, ou seja, programação lógica, é uma linguagem declarativa que se baseia no cálculo de predicados. Constituindo-se de uma coleção de fatos (base de dados) e regras (relações lógicas) realiza deduções para obter conclusões a partir de consultas realizadas pelos usuários. O que achei mais interessante em estudar Prolog foi a possibilidade da automação de tarefas e seu sistema de banco de dados baseado em lógica. Através de suas inúmeras possilibidades, é uma linguagem de programação que permite a facilitação do estudo através da resolução de problemas de modo interativo e divertido, como a atividade realizada no repl.it de descobrir quem cometeu um assassinato em um hotel através de premissas.
 
 ![PROLOG](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/1d3abdbb-19da-4e8d-9367-4b9aa5d5e6f7)
+
+## Compilador
+  Para as práticas foram utilizados os compiladores do repl.it e swish (https://swish.swi-prolog.org).
+
+## Compreensão dos predicados
+  Os predicados de prologs, sendo eles constantes ou variáveis (variáveis tem sua terminologia iniciada por maiúscula), são divididos em fatos e regras para a realização de uma consulta definida por meio deles. É válido ressaltar que todas as respectivas cláusulas são finalizadas com pontos finais. 
+
+### Fato
+  Expressam afirmações de um fato.
+  
+Frase: "Renata é estudante de programação"
+Em prolog:
+```Prolog
+programming(renata).
+```
+
+### Regra
+Cláusulas com condicionais.
+
+Frase: "Todo estudante de programação é esforçado"
+Em prolog: 
+```Prolog
+esforcado(x) :- programming(x).
+```
 
 ## Programa movies.pl
   Prática no menu Teams da disciplina na plataforma Repl.it
@@ -21,6 +45,7 @@ Exemplo de consultas básicas no programa movies.pl
 ![CONSULTAS BÁSICAS](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/341bdf26-b5dd-44b4-bfed-f4303d6cda22)
 
 ## Comandos no Swipl
+  Para abrir o programa main.pl no interpretador de comandos utiliza-se o comando swipl main.pl no Shell.
 
 ![COMANDOS NO SWIPL](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/8fe76030-469d-4eb8-a122-be97315591d7)
 

@@ -32,15 +32,18 @@ esforcado(x) :- programming(x).
 ```
 
 ## Programa movies.pl
-  Prática no menu Teams da disciplina na plataforma Repl.it
+  Primeira prática de prolog no menu Teams da disciplina na plataforma Repl.it. A realização dessa atividade proporciou a aprendizagem da modelagem de dados através do uso de predicados, a realização de consultas e aprimoramento do raciocínio lógico.
+
+### Predicados da prática
 
 ![PROGRAMA MOVIES PL](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/6cfd5cfc-f90d-45a8-98f4-34f803ca4d14)
-  
+
+### Banco de dados disponibilizado pela professora
 ![image](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/56cf815b-5c1c-4868-ab3c-45912c0b201f)
 
 
 ### Consultas básicas 
-Exemplo de consultas básicas no programa movies.pl
+Exemplo de consultas realizadas no programa movies.pl.
 
 ![CONSULTAS BÁSICAS](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/341bdf26-b5dd-44b4-bfed-f4303d6cda22)
 

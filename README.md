@@ -8,12 +8,15 @@ Prolog, ou seja, linguagem de programação lógica, é uma linguagem declarativ
 ![PROLOG](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/1d3abdbb-19da-4e8d-9367-4b9aa5d5e6f7)
 
 ## Programa movies.pl
-
-![image](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/56cf815b-5c1c-4868-ab3c-45912c0b201f)
+  Prática no menu Teams da disciplina na plataforma Repl.it
 
 ![PROGRAMA MOVIES PL](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/6cfd5cfc-f90d-45a8-98f4-34f803ca4d14)
+  
+![image](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/56cf815b-5c1c-4868-ab3c-45912c0b201f)
+
 
 ### Consultas básicas 
+Exemplo de consultas básicas no programa movies.pl
 
 ![CONSULTAS BÁSICAS](https://github.com/isabelaacr/Paradigma-Prolog/assets/118640598/341bdf26-b5dd-44b4-bfed-f4303d6cda22)
 
